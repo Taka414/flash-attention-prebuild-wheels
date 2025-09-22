@@ -20,7 +20,7 @@ torch: 2.7.1+cu128
 
 
 
-Japanese:
+**<u>Japanese:</u>**
 
 reForgeのデフォルトのバージョンに対応するFlash-Attensionのwheelsが無いので自分でビルドしました。
 
@@ -30,7 +30,7 @@ reForgeの起動引数に「--use-flash-attention」を追記して起動する�
 
 
 
-English:
+**<u>English:</u>**
 
 The wheels for Flash-Attention corresponding to the default version of reForge were not available, so I built them myself.
 
