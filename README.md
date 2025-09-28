@@ -54,7 +54,7 @@ cd /d (your environment path)\webui
 3. pipでインストール
 
 ```bat
-pip install (your download path)\flash_attn-2.8.3-cp311-cp311-win_amd64.whl
+pip install (your download path)\flash_attn-2.8.3+cu12torch2.7-cp311-cp311-win_amd64.whl
 ```
 
 4. 導入できたかチェック
