@@ -18,6 +18,7 @@ python: 3.11.9
 
 torch: 2.7.1+cu128
 
+file name: flash_attn-2.8.3-cp311-cp311-win_amd64.whl
 
 
 **<u>Japanese:</u>**
